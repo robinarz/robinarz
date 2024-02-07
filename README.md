@@ -9,3 +9,5 @@ I daily use multiple tools and programming languages such as :
 ### Planned to learn :
 - ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 - ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+**I use Neovim BTW**
